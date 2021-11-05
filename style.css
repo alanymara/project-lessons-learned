@@ -32,10 +32,17 @@ p {
   line-height: 25px;
 }
 
-.lado-esquerdo, .lado-direito {
-  display: block;
-  width: 700px;
+.lado-esquerdo{
+  display: inline-block;
+  width: 500px;
   float: left;
+  align-items: center;
+} 
+
+.lado-direito {
+  display: inline-block;
+  width: 500px;
+  float: right;
   align-items: center;
 }
 
