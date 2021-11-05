@@ -5,4 +5,18 @@ body {
 #cabecalho {
   position: fixed;
   top: 0px;
+  background-color: rosybrown;
+  padding: 10px;
+  border: rgb(255, 255, 255) 1px solid;
+}
+
+#minha_foto {
+  border-radius: 50%;
+  height: 500px;
+  width: 500px;
+  margin-top: 100px;
+}
+
+article, aside, table {
+  margin: 40px;
 }
