@@ -19,10 +19,10 @@ body {
 }
 
 article, aside, table {
-  margin: 40px;
+  margin-left: 40px;
 }
 
-.licoes{
+.licoes {
   font-size: 25px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: rgb(211, 76, 76);
@@ -30,4 +30,16 @@ article, aside, table {
 
 p {
   line-height: 25px;
+}
+
+.lado-esquerdo, .lado-direito {
+  display: block;
+  width: 700px;
+  float: left;
+  align-items: center;
+}
+
+table {
+  clear: both;
+  margin: 40px;
 }
