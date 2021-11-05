@@ -3,6 +3,7 @@ body {
 }
 
 #cabecalho {
+  font-size: 17px;
   position: fixed;
   top: 0px;
   background-color: rosybrown;
@@ -19,4 +20,14 @@ body {
 
 article, aside, table {
   margin: 40px;
+}
+
+.licoes{
+  font-size: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(211, 76, 76);
+}
+
+p {
+  line-height: 25px;
 }
