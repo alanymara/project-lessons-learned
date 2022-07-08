@@ -1,6 +1,6 @@
-# :pushpin: Lessons Learned
+# :round_pushpin: Lessons Learned
 Desenvolver um site que contenha uma série de informações sobre o que foi aprendido na Trybe ao longo dos últimos três blocos. O site deverá estar com elementos posicionados e estilizados e além disto, deverá conter semântica apropriada para que seja acessível e melhor ranqueado.
-## :page_with_curl: About/Sobre
+## :page_with_curl: _About/Sobre_
 
 <details>
   <summary markdown="span"><strong>:us: English</strong></summary><br />
@@ -17,7 +17,7 @@ Primeiro projeto de HTML e CSS desenvolvido por ([Alany Fernandes](https://www.l
 <br />
 </details>
 
-## :man_technologist: Developed Skills/Habilidades Desenvolvidas
+## :man_technologist: _Developed Skills/Habilidades Desenvolvidas_
 
 <details>
   <summary markdown="span"><strong>:us: English</strong></summary><br />
@@ -34,7 +34,7 @@ Primeiro projeto de HTML e CSS desenvolvido por ([Alany Fernandes](https://www.l
 <br />
 </details>
 
-## :hammer_and_wrench: Tools/Ferramentas
+## :hammer_and_wrench: _Tools/Ferramentas_
 
 * HTML5
 * CSS
