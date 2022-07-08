@@ -1,5 +1,5 @@
 # :round_pushpin: Lessons Learned
-Desenvolver um site que contenha uma série de informações sobre o que foi aprendido na Trybe ao longo dos últimos três blocos. O site deverá estar com elementos posicionados e estilizados e além disto, deverá conter semântica apropriada para que seja acessível e melhor ranqueado.
+Neste projeto foi desenvolvido um site que contem uma série de informações sobre o que foi aprendido na Trybe ao longo dos últimos três blocos. O site está com elementos posicionados e estilizados, além de conter semântica apropriada para que seja acessível e melhor ranqueado.
 ## :page_with_curl: _About/Sobre_
 
 <details>
